@@ -25,9 +25,9 @@ $wgMainCacheType = CACHE_ANYTHING;
 $wgMemCachedServers = array();
 
 # Piwik - comment out to deactivate
-require_once "$IP/extensions/Piwik/Piwik.php";
-$wgPiwikURL = "piwik.supertuxkart.net";
-$wgPiwikIDSite = "1";
+#require_once "$IP/extensions/Piwik/Piwik.php";
+#$wgPiwikURL = "piwik.supertuxkart.net";
+#$wgPiwikIDSite = "1";
 
 ###
 # Other Settings
