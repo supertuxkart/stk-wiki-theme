@@ -198,7 +198,7 @@ $footer_section = array (
     array( 'heading' => 'Development', 'entries' => array (
         array('Modding', '/Community'),
         array('GitHub', 'https://github.com/supertuxkart/stk-code'),
-        array('Documentation', 'http://supertuxkart.sourceforge.net/doxygen')
+        array('Documentation', 'https://doxygen.supertuxkart.net/')
     )),
     array( 'heading' => 'About us', 'entries' => array (
         array('FAQ', '/FAQ'),
