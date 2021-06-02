@@ -150,7 +150,7 @@ $footer_section = array (
         array('Blog', 'https://blog.supertuxkart.net/'),
         array('Twitter', 'https://twitter.com/supertuxkart'),
         array('Addons', 'https://online.supertuxkart.net/'),
-        array('irc: #supertuxkart@freenode', 'https://webchat.freenode.net/#supertuxkart')
+        array('irc: #supertuxkart@libera', 'https://web.libera.chat/?channels=#supertuxkart')
     )),
     array( 'heading' => 'Media', 'entries' => array (
         array('YouTube', 'https://www.youtube.com/channel/UCJ9hmn6MG_ggpQUhmbMS2mQ'),
@@ -191,7 +191,7 @@ foreach ($footer_section as $column) { ?>
 Site designed by Jean-Manuel Cl&eacute;men&ccedil;on & Konstin<br />
 Powered by <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a><br /><br />
 
-SuperTuxKart Team © 2020
+SuperTuxKart Team © 2021
 </div>
 
 </footer>
